@@ -22,7 +22,7 @@ An intelligent warehouse management system powered by AI that automates inventor
 
 - Python 3.8+
 - Node.js and npm
-- Google Gemini API key
+
 
 ## 🛠️ Installation
 
