@@ -14,7 +14,7 @@ An intelligent warehouse management system powered by AI that automates inventor
 
 - **Backend**: FastAPI (Python)
 - **Frontend**: React.js
-- **AI**: Google Gemini 2.0 Flash
+<!-- - **AI**: Google Gemini 2.0 Flash -->
 - **Image Processing**: OpenCV, PIL
 - **API**: RESTful architecture
 
