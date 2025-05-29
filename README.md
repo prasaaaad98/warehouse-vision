@@ -28,7 +28,7 @@ An intelligent warehouse management system powered by AI that automates inventor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/warehouse-vision.git
+git clone https://github.com/prasaaaad98/warehouse-vision.git
 cd warehouse-vision
 ```
 
