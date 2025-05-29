@@ -75,7 +75,7 @@ import numpy as np
 from craft_text_detector import Craft
 from paddleocr import PaddleOCR
 import io
-GOOGLE_API_KEY = "AIzaSyC5mUr43dapOIIROSjIFWQMHRpQMpVGqfE"
+GOOGLE_API_KEY = "{insert key here}"
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 system_prompt= """
