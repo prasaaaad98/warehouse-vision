@@ -98,10 +98,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Prasad Jore - Yash Gupta
 
-## 🙏 Acknowledgments
-
-- Google Gemini AI for providing the AI capabilities
-- FastAPI for the robust backend framework
-- React.js for the frontend framework 
